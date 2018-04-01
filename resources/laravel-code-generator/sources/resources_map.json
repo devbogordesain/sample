@@ -1,0 +1,7 @@
+[
+    {
+        "model-name": "User",
+        "resource-file": "users.json",
+        "table-name": "users"
+    }
+]

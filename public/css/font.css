@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'ProximaNova-Regular';
+  src: url(/fonts/ProximaNova-Regular.eot?8a7798b9df289e7b2464e848de707494) format("eot"), url(/fonts/ProximaNova-Regular.otf?410504d49238e955ba7dc23a7f963021) format("opentype"), url(/fonts/ProximaNova-Regular.woff?7ac315d4cad80f628e7f32f22a3b1aeb) format("woff"), url(/fonts/ProximaNova-Regular.ttf?9ba31b8f0c1479a25a2566125e83ba7b) format("truetype"), url(/fonts/ProximaNova-Regular.svg?d84c4030ef0578ddb1b4f6779a02ebac) format("svg");
+}
+
+@font-face {
+  font-family: 'ProximaNova-Light';
+  src: url(/fonts/ProximaNova-Light.eot?e085a23d13a59f9aff149741cf019d6b) format("eot"), url(/fonts/ProximaNova-Light.otf?076d851b602b9915c429f3a2e436c639) format("opentype"), url(/fonts/ProximaNova-Light.woff?1a5f6568d48f9ac8593c0e86bd147d9d) format("woff"), url(/fonts/ProximaNova-Light.ttf?6e6b851dbc41b82449ef61eb687ab0c2) format("truetype"), url(/fonts/ProximaNova-Light.svg?7bfa9d80b5bc7173288be6405b834266) format("svg");
+}
+
+@font-face {
+  font-family: 'ProximaNova-Bold';
+  src: url(/fonts/ProximaNova-Bold.eot?77820286a3824f978402e357d791b89e) format("eot"), url(/fonts/ProximaNova-Bold.otf?62d4d7d369292a9bf23762465ec6d704) format("opentype"), url(/fonts/ProximaNova-Bold.woff?55d11ca1e636ce2478aba6aad3cbcee2) format("woff"), url(/fonts/ProximaNova-Bold.ttf?59e796e7c4edc55d67bae27eb4ec21b8) format("truetype"), url(/fonts/ProximaNova-Bold.svg?3145fef1da688cfea44a22e77f7a6ba7) format("svg");
+}
+
+@font-face {
+  font-family: 'ProximaNova-Black';
+  src: url(/fonts/ProximaNova-Black.eot?c3ae4f6585884b82648125eb8281e288) format("eot"), url(/fonts/ProximaNova-Black.otf?f401366193520cdf512c7ade98260e27) format("opentype"), url(/fonts/ProximaNova-Black.woff?362e6bed6247da145bf7af4592ef7055) format("woff"), url(/fonts/ProximaNova-Black.ttf?78b699c871013d653d432bdbb6c8d57b) format("truetype"), url(/fonts/ProximaNova-Black.svg?8664483fd2d5fd770218beb5a9da84fc) format("svg");
+}
+
